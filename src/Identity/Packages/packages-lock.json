@@ -1,0 +1,138 @@
+{
+  "dependencies": {
+    "com.amariliscreation.common": {
+      "version": "https://github.com/AmarilisCreation/AmarilisLib.Common.git?path=src/Common/Assets/Plugins",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "e7ebed8139494e6c62956c15617424ddd53f9e35"
+    },
+    "com.amariliscreation.either_monad": {
+      "version": "file:../../Either/Assets/Plugins",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.amariliscreation.io_monad": {
+      "version": "file:../../IO/Assets/Plugins",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.amariliscreation.option_monad": {
+      "version": "file:../../Option/Assets/Plugins",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.amariliscreation.reader_monad": {
+      "version": "file:../../Reader/Assets/Plugins",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.amariliscreation.rws_monad": {
+      "version": "file:../../RWS/Assets/Plugins",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.amariliscreation.common": "https://github.com/AmarilisCreation/AmarilisLib.Common.git?path=src/Common/Assets/Plugins"
+      }
+    },
+    "com.amariliscreation.state_monad": {
+      "version": "file:../../State/Assets/Plugins",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.amariliscreation.common": "https://github.com/AmarilisCreation/AmarilisLib.Common.git?path=src/Common/Assets/Plugins"
+      }
+    },
+    "com.amariliscreation.try_monad": {
+      "version": "file:../../Try/Assets/Plugins",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.amariliscreation.writer_monad": {
+      "version": "file:../../Writer/Assets/Plugins",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.amariliscreation.common": "https://github.com/AmarilisCreation/AmarilisLib.Common.git?path=src/Common/Assets/Plugins"
+      }
+    },
+    "com.unity.ext.nunit": {
+      "version": "1.0.6",
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.ide.visualstudio": {
+      "version": "2.0.22",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.test-framework": "1.1.9"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.ide.vscode": {
+      "version": "1.2.5",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.test-framework": {
+      "version": "1.1.33",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ext.nunit": "1.0.6",
+        "com.unity.modules.imgui": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.modules.imgui": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.jsonserialize": {
+      "version": "1.0.0",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.ui": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.modules.uielements": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.ui": "1.0.0",
+        "com.unity.modules.imgui": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.modules.uielementsnative": "1.0.0"
+      }
+    },
+    "com.unity.modules.uielementsnative": {
+      "version": "1.0.0",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.ui": "1.0.0",
+        "com.unity.modules.imgui": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      }
+    }
+  }
+}

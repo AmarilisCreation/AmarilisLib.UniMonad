@@ -1,0 +1,30 @@
+{
+  "name": "com.amariliscreation.identity_monad",
+  "version": "1.0.0",
+  "displayName": "AmarilisLib Identity Monad",
+  "description": "This Library for using identity monad in Unity",
+  "unity": "2020.3",
+  "dependencies": {
+    "com.amariliscreation.common": "https://github.com/AmarilisCreation/AmarilisLib.Common.git?path=src/Common/Assets/Plugins",
+    "com.amariliscreation.option_monad": "https://github.com/AmarilisCreation/AmarilisLib.UniMonad.git?path=src/Option/Assets/Plugins",
+    "com.amariliscreation.either_monad": "https://github.com/AmarilisCreation/AmarilisLib.UniMonad.git?path=src/Either/Assets/Plugins",
+    "com.amariliscreation.try_monad": "https://github.com/AmarilisCreation/AmarilisLib.UniMonad.git?path=src/Try/Assets/Plugins",
+    "com.amariliscreation.io_monad": "https://github.com/AmarilisCreation/AmarilisLib.UniMonad.git?path=src/IO/Assets/Plugins",
+    "com.amariliscreation.reader_monad": "https://github.com/AmarilisCreation/AmarilisLib.UniMonad.git?path=src/Reader/Assets/Plugins",
+    "com.amariliscreation.writer_monad": "https://github.com/AmarilisCreation/AmarilisLib.UniMonad.git?path=src/Writer/Assets/Plugins",
+    "com.amariliscreation.state_monad": "https://github.com/AmarilisCreation/AmarilisLib.UniMonad.git?path=src/State/Assets/Plugins",
+    "com.amariliscreation.rws_monad": "https://github.com/AmarilisCreation/AmarilisLib.UniMonad.git?path=src/RWS/Assets/Plugins"
+  },
+  "keywords": [
+    "Monad",
+    "Identity",
+    "async/await",
+    "async",
+    "AmarilisLib"
+  ],
+  "author": {
+    "name": "AmarilisCreation",
+    "email": "tfb00plzdj+AmarilisCreation@gmail.com"
+  },
+  "license": "MIT"
+}

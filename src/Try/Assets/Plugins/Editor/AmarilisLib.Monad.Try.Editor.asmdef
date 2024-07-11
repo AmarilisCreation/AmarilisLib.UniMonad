@@ -1,0 +1,16 @@
+{
+    "name": "AmarilisLib.Monad.Try.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:27a4ad5fdfce6a546816906e72c77d2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

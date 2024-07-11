@@ -1,0 +1,16 @@
+{
+    "name": "AmarilisLib.Monad.RWS",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0cfd941b45bfb9148b59c34ce72132a3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

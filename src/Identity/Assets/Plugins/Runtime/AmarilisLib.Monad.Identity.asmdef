@@ -1,0 +1,24 @@
+{
+    "name": "AmarilisLib.Monad.Identity",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0cfd941b45bfb9148b59c34ce72132a3",
+        "GUID:481832285b5c79043b3300b22c54d4d8",
+        "GUID:f63d3d06f908cf24e9ea93f19622cac4",
+        "GUID:27a4ad5fdfce6a546816906e72c77d2f",
+        "GUID:221c09514293d5545a7251369035bf31",
+        "GUID:cee41832e563af0449fe747c578ab96e",
+        "GUID:fa3c8b605463b5a43b7616e7c093c532",
+        "GUID:13efcb92e7c510d40b583f7cde2845a5",
+        "GUID:8033c3c4c1b36214388da0f921949729"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

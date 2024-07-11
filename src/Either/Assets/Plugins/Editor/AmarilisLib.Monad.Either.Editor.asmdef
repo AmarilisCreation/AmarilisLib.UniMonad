@@ -1,0 +1,16 @@
+{
+    "name": "AmarilisLib.Monad.Either.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f63d3d06f908cf24e9ea93f19622cac4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

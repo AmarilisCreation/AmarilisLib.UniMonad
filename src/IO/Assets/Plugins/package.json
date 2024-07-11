@@ -1,0 +1,20 @@
+{
+  "name": "com.amariliscreation.io_monad",
+  "version": "1.0.0",
+  "displayName": "AmarilisLib IO Monad",
+  "description": "This Library for using io monad in Unity",
+  "unity": "2020.3",
+  "dependencies": { },
+  "keywords": [
+    "Monad",
+    "IO",
+    "async/await",
+    "async",
+    "AmarilisLib"
+  ],
+  "author": {
+    "name": "AmarilisCreation",
+    "email": "tfb00plzdj+AmarilisCreation@gmail.com"
+  },
+  "license": "MIT"
+}

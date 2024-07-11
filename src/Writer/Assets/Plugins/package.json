@@ -1,0 +1,22 @@
+{
+  "name": "com.amariliscreation.writer_monad",
+  "version": "1.0.0",
+  "displayName": "AmarilisLib Writer Monad",
+  "description": "This Library for using writer monad in Unity",
+  "unity": "2020.3",
+  "dependencies": {
+    "com.amariliscreation.common": "https://github.com/AmarilisCreation/AmarilisLib.Common.git?path=src/Common/Assets/Plugins"
+  },
+  "keywords": [
+    "Monad",
+    "Writer",
+    "async/await",
+    "async",
+    "AmarilisLib"
+  ],
+  "author": {
+    "name": "AmarilisCreation",
+    "email": "tfb00plzdj+AmarilisCreation@gmail.com"
+  },
+  "license": "MIT"
+}

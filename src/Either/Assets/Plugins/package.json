@@ -1,0 +1,20 @@
+{
+  "name": "com.amariliscreation.either_monad",
+  "version": "1.0.0",
+  "displayName": "AmarilisLib Either Monad",
+  "description": "This Library for using either monad in Unity",
+  "unity": "2020.3",
+  "dependencies": { },
+  "keywords": [
+    "Monad",
+    "Either",
+    "async/await",
+    "async",
+    "AmarilisLib"
+  ],
+  "author": {
+    "name": "AmarilisCreation",
+    "email": "tfb00plzdj+AmarilisCreation@gmail.com"
+  },
+  "license": "MIT"
+}

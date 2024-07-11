@@ -1,0 +1,20 @@
+{
+  "name": "com.amariliscreation.option_monad",
+  "version": "1.0.0",
+  "displayName": "AmarilisLib Option Monad",
+  "description": "This Library for using option monad in Unity",
+  "unity": "2020.3",
+  "dependencies": { },
+  "keywords": [
+    "Monad",
+    "Option",
+    "async/await",
+    "async",
+    "AmarilisLib"
+  ],
+  "author": {
+    "name": "AmarilisCreation",
+    "email": "tfb00plzdj+AmarilisCreation@gmail.com"
+  },
+  "license": "MIT"
+}

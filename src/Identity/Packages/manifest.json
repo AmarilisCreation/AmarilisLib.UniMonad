@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "com.amariliscreation.common": "https://github.com/AmarilisCreation/AmarilisLib.Common.git?path=src/Common/Assets/Plugins",
+    "com.amariliscreation.option_monad": "file:../../Option/Assets/Plugins",
+    "com.amariliscreation.either_monad": "file:../../Either/Assets/Plugins",
+    "com.amariliscreation.try_monad": "file:../../Try/Assets/Plugins",
+    "com.amariliscreation.io_monad": "file:../../IO/Assets/Plugins",
+    "com.amariliscreation.reader_monad": "file:../../Reader/Assets/Plugins",
+    "com.amariliscreation.writer_monad": "file:../../Writer/Assets/Plugins",
+    "com.amariliscreation.state_monad": "file:../../State/Assets/Plugins",
+    "com.amariliscreation.rws_monad": "file:../../RWS/Assets/Plugins",
+    "com.unity.ide.visualstudio": "2.0.22",
+    "com.unity.ide.vscode": "1.2.5",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0"
+  }
+}
